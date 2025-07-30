@@ -1,0 +1,5 @@
+langchain>=0.0.200               # Agent framework :contentReference[oaicite:0]{index=0}
+gradio>=3.50                     # Chat UI :contentReference[oaicite:1]{index=1}
+requests                         # HTTP calls to LM Studio
+python-dotenv                    # Local config
+typer>=0.7.0                     # CLI framework
